@@ -237,7 +237,7 @@ namespace JoHeRingRing
 
             InitParameterDefinition();
             this.pbRinger.Visible = false;
-            lblAlertInfo.Text = ""; // init without text visible
+            lblAlertInfo.Text = ""; // init without text visible 
 
         }
 
